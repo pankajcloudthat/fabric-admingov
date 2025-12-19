@@ -32,7 +32,7 @@ Step 6: Enter the enrolment key: Shared During the session
 - [Lineage in Fabric](https://learn.microsoft.com/en-us/fabric/governance/lineage)
 - [Fabric domains](https://learn.microsoft.com/en-us/fabric/governance/domains)
 - [Endorsement overview](https://learn.microsoft.com/en-us/fabric/governance/endorsement-overview)
-- [The Microsoft Purview hub (preview)](https://learn.microsoft.com/en-us/fabric/governance/use-microsoft-purview-hub?tabs=overview0
+- [The Microsoft Purview hub](https://learn.microsoft.com/en-us/fabric/governance/use-microsoft-purview-hub?tabs=overview0
 - [Use Microsoft Purview to govern Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/governance/microsoft-purview-fabric)
 
 -----------------------------------
